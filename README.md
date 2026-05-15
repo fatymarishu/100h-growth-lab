@@ -142,7 +142,7 @@ The experience reinforced the importance of structured thinking, practical probl
 
 ## OpenAI Codex CLI
 
-![Codex CLI](assets/codex-cli-running.png)
+![Codex CLI](assets/codex-cli-setup.png)
 
 ---
 
