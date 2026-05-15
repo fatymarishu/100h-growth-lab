@@ -132,7 +132,7 @@ The experience reinforced the importance of structured thinking, practical probl
 
 ![Cursor Workspace](assets/cursor-workspace.png)
 
-
+---
 
 ## Claude Code CLI Setup
 
@@ -143,12 +143,6 @@ The experience reinforced the importance of structured thinking, practical probl
 ## OpenAI Codex CLI
 
 ![Codex CLI](assets/codex-cli-setup.png)
-
----
-
-## GitHub Repository
-
-![GitHub Repository](assets/github-repository.png)
 
 ---
 
